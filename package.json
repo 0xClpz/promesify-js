@@ -1,5 +1,5 @@
 {
-  "name": "promesify",
+  "name": "promesify-js",
   "description": "Naive library that transforms your typical async function into a promise",
   "version": "1.0.0",
   "main": "index.js",
