@@ -1,7 +1,7 @@
 {
   "name": "promesify-js",
   "description": "Naive library that transforms your typical async function into a promise",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "Antonio Calapez <antonio@hackages.io>",
   "license": "MIT"
