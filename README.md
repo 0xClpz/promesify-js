@@ -17,7 +17,7 @@ readdir('directory')
 ```
 ## Usage
 ```JavaScript
-import {promesify} from 'promesify';
+import {promesify} from 'promesify-js';
 const newFunction = promesify(yourAsyncFunction);
 newFunction(all, your, args, except, the, callback)
   .then(console.log)
